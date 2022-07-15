@@ -1048,7 +1048,7 @@ a {
   }
 }
 .cid-tbx9BfsIPv {
-  background-image: url("../../../assets/images/home-b.png");
+  background-image: url("../../../assets/images/home-b-2.png");
 }
 .cid-tbx9BfsIPv .mbr-fallback-image.disabled {
   display: none;
@@ -2551,8 +2551,8 @@ a {
   }
 }
 .cid-tbEPfSwCUG {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
 }
 .cid-tbEPfSwCUG .mbr-fallback-image.disabled {
